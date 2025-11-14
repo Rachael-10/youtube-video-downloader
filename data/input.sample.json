@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=123456789",
+    "fileName": "sample-video",
+    "format": "mp4",
+    "quality": "highest",
+    "storageProvider": "AWS S3",
+    "storagePath": "videos/sample-video.mp4"
+  }
+]
