@@ -1,0 +1,5 @@
+{
+  "awsBucket": "your-bucket-name",
+  "azureContainer": "your-azure-container",
+  "gcpBucket": "your-gcp-bucket"
+}
